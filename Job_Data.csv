@@ -1,0 +1,77 @@
+Name,Context,Cleaned,Selective,Selective_Reduced,TF_Based
+Senior Engineer.docx,"Job role: 
+
+Senior Engineer
+
+
+
+Must have skills:
+
+Vue.js, ASP.NET Web API, SQL Server
+
+
+
+Secondary skills:
+
+Knowledge and experience of Continuous integration, testing and deployment tools such as Jenkins, MSBuild, Octopus Deploy, Selenium, SonarQube and Docker. 
+
+Understanding and experience of application security, development standards and industry best practice.
+
+
+
+Job description:     
+
+Microsoft .NET platform using Microsoft Visual Studio 
+
+Experience of developing high availability, scalable, robust and secure applications using the Microsoft Stack.
+
+Strong understanding of Object Oriented Software design, patterns, best practices and principles of object oriented design (e.g. SOLID, GRASP).
+
+Experience using C#, Web API and REST.
+
+Experience of SQL Server, table design, stored procs, functions, T-SQL, and writing optimised SQL queries.
+
+Other skills such as CSS3, HTML5, AJAX, JSON, JQuery, Angular, VUE, JavaScript, TypeScript and Bootstrap.
+
+Experience of Unit Testing (NUnit, Jasmine) and Selenium
+
+Experience of Agile Software Development using Jira, Confluence and qTest. 
+
+Experience using Code Management tools such as BitBucket, GIT.",Job role Senior Engineer skill Vuejs ASPNET web api SQL Server Secondary skill Knowledge experience continuous integration testing deployment tool Jenkins MSBuild Octopus Deploy Selenium SonarQube Docker Understanding experience application security development standard industry good practice Job description Microsoft NET platform use Microsoft Visual Studio experience develop high availability scalable robust secure application use Microsoft Stack Strong understand Object Oriented Software design pattern good practice principle object orient design eg SOLID GRASP Experience use c web api rest experience SQL Server table design store proc function TSQL writing optimise SQL query other skill CSS3 HTML5 AJAX JSON JQuery Angular VUE JavaScript TypeScript Bootstrap Experience Unit Testing NUnit Jasmine Selenium Experience Agile Software Development use Jira Confluence qTest experience use Code Management tool BitBucket GIT,Deploy TSQL Visual rest Selenium secure deployment platform ASPNET GIT Bootstrap JSON VUE SonarQube good standard high design understand BitBucket TypeScript tool JQuery JavaScript Engineer SQL Development role Agile Vuejs other Server Stack industry Jira NET query writing security Experience CSS3 skill testing Microsoft Angular function description Knowledge principle orient Secondary web Jenkins Jasmine scalable application Unit HTML5 qTest Studio MSBuild availability robust Object Octopus Strong GRASP experience AJAX table integration develop Code SOLID Docker NUnit Senior api store Management Oriented Understanding optimise object use practice Software Testing continuous Job development c eg pattern Confluence proc,TSQL rest Selenium deployment platform ASPNET GIT Bootstrap JSON VUE SonarQube design BitBucket TypeScript tool JQuery JavaScript Engineer SQL Development role Agile Vuejs Server Stack industry Jira NET query security Experience CSS3 skill Microsoft Angular function description Knowledge principle web Jenkins Jasmine application Unit HTML5 qTest Studio MSBuild availability robust Object Octopus Strong GRASP experience AJAX table integration Code SOLID Docker NUnit Senior api store Management object use practice Software Testing Job development c eg pattern Confluence proc,agile ajax angular api application aspnet availability bitbucket bootstrap code confluence continuous css3 deploy deployment description design develop development docker eg engineer experience function git good grasp high html5 industry integration jasmine javascript jenkins jira job jquery json knowledge management microsoft msbuild net nunit object octopus optimise orient oriented other pattern platform practice principle proc qtest query rest robust role scalable secondary secure security selenium senior server skill software solid sonarqube sql stack standard store strong studio table testing tool tsql typescript understand understanding unit use visual vue vuejs web writing
+Staff Engineer.docx,"Job role: 
+
+Staff Engineer
+
+
+
+Must have skills:
+
+SQL (Capable), REST
+
+
+
+Job description:     
+
+6+ Yrs Solid knowledge of Java 8 with experience with Spring framework and database abstraction layers like Hibernate.
+
+Experience working with SQL databases, query optimization and designing schemas.
+
+High coding standards - understanding of test coverage best practices & amp; test pyramid concept.
+
+Familiar with Continuous Delivery approach.
+
+Experience with Distributed and Concurrent Systems, knowing the tradeoffs between stateful/stateless and synchronous/asynchronous architectures.
+
+Hands on knowledge of system integration patterns - REST, messaging, event streams.
+
+Passion about technology and its relationship with product and user experience.
+
+Ability to work independently - identify problems, create plans and implement solutions to them.
+
+Broad understanding of the concept of minimum viable product (MVP).
+
+Customer is at the heart of everything you do and this empathy drives all decision you make.
+
+Ability to articulate complex and technical concepts to non-technical audiences.
+
+Knowledge/interest in payment platforms, foreign exchange &amp; highly complex systems.",Job role Staff Engineer skill SQL capable rest Job description Yrs solid knowledge Java experience Spring framework database abstraction layer Hibernate experience work SQL database query optimization design schema high code standard understand test coverage good practice amp test pyramid concept Familiar Continuous Delivery approach experience Distributed Concurrent Systems know tradeoff statefulstateless synchronousasynchronous architecture Hands knowledge system integration pattern rest message event stream Passion technology relationship product user experience ability work independently identify problem create plan implement solution broad understanding concept minimum viable product MVP Customer heart empathy drive decision make ability articulate complex technical concept nontechnical audience knowledgeinterest payment platform foreign exchange amp highly complex system,heart coverage Customer problem rest empathy abstraction platform complex audience Distributed capable good standard knowledge high design understand identify exchange stream system technical schema Engineer SQL role database Yrs concept solution plan test ability work Familiar knowledgeinterest layer Java minimum Continuous product drive Passion nontechnical query technology Delivery MVP skill description code broad Hibernate amp foreign understanding Systems tradeoff framework Staff create make Hands architecture experience optimization articulate statefulstateless implement integration independently synchronousasynchronous pyramid Concurrent know highly decision practice payment viable user solid Job approach event relationship pattern Spring message,heart coverage Customer problem rest abstraction platform audience knowledge design understand exchange stream system technical schema Engineer SQL role database Yrs concept solution plan test ability layer Java product Passion query technology Delivery MVP skill description code Hibernate amp understanding Systems tradeoff framework Staff Hands architecture experience optimization statefulstateless integration pyramid Concurrent decision practice payment user Job approach event relationship pattern Spring message,ability abstraction amp approach architecture articulate audience broad capable code complex concept concurrent continuous coverage create customer database decision delivery description design distributed drive empathy engineer event exchange experience familiar foreign framework good hands heart hibernate high highly identify implement independently integration java job know knowledge knowledgeinterest layer make message minimum mvp nontechnical optimization passion pattern payment plan platform practice problem product pyramid query relationship rest role schema skill solid solution spring sql staff standard statefulstateless stream synchronousasynchronous system systems technical technology test tradeoff understand understanding user viable work yrs
